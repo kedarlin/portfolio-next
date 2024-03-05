@@ -24,7 +24,7 @@ const TAB_DATA = [
         id:"education",
         content: (
             <ul className="list-disc pl-2">
-                <li>St Joseph's College Of Engineering</li>
+                <li>St Joseph&apos;s College Of Engineering</li>
                 <li>Ramakrishna Mission Mat Hr Sec School</li>
             </ul>
         )
@@ -63,7 +63,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I'm a full stack web developer with a passion for creating
+            I&apos;m a full stack web developer with a passion for creating
             interactive and responsive web applications. I have experience
             working with Javascript, ReactJs, Redux, Next Js, Node.Js, Express,
             MySQL, and Blender. I am a quick learner and I am always looking to
